@@ -1,4 +1,4 @@
-# Workshop: Equinix Labs
+# Workshop: Equinix Fabric Cloud Router (FCR) with Pulumi
 
 <!---
 Using this template in a new project? See CONTIBUTING.md for help.
