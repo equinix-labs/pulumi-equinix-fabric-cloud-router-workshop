@@ -12,6 +12,8 @@ Thank you for participating in the workshop! Let's recap some of the key takeway
 
 * As a next step, we encourage exploring the integration of Equinix Fabric Cloud Router with other cloud service providers to further unlock its potential. By adding interconnections to additional cloud environments, such as Microsoft Azure or Amazon Web Services (AWS), you can evaluate the agility and efficiency of Equinix Fabric in facilitating cross-cloud traffic routing without the need for additional configuration.
 
+  In the [Equinix Fabric Cloud Router (FCR) Multi-cloud with Pulumi](https://equinix-labs.github.io/pulumi-equinix-fabric-cloud-router-multicloud-workshop) workshop, AWS services are added to the concepts and resources introduced in this workshop.
+
 ## Resources
 
 Here are a few other resources to look at to continue your Equinix Fabric journey:
